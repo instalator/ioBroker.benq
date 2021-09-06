@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "benq",
-    "version": "0.2.7",
+    "version": "1.0.0",
     "news": {
       "0.2.7": {
         "en": "fix error",
